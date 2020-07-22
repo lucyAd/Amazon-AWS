@@ -1,2 +1,4 @@
 # Amazon-AWS
-An update of our MYSQL Database to Amazon Relational Database Service (Amazon RDS)
+An update of php my admin (mysql) Database to Amazon Relational Database Service (Amazon RDS)
+
+
